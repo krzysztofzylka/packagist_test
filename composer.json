@@ -1,0 +1,18 @@
+{
+    "name": "krzysztofz/packagist",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Krzysztofz\\Packagist\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "krzysztof",
+            "email": "krzysztofzylka@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
